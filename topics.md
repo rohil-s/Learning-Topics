@@ -9,6 +9,6 @@
         - [ ] Apache Kafka
         - [ ] Apache Pulsar
 2. Java:
-    - [ ] Object Mapper Basics
+    - [x] Object Mapper Basics
     - [ ] Extensible Schema Definition [Define in XSD and conver to POJO]
     - [ ] TBD
